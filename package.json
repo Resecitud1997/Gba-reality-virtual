@@ -1,0 +1,14 @@
+{
+  "name": "gba-reality-emulator",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Emulador GBA de escritorio con realidad aumentada y exportación de objetos 3D",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "dev": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^35.0.0"
+  }
+}
